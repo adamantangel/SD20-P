@@ -1,0 +1,18 @@
+Nodo1: Inicializado algoritmo
+ 	Vecinos = [2, 3, 4]
+Nodo2: Inicializado algoritmo
+ 	Vecinos = [1, 3, 4]
+Nodo3: Inicializado algoritmo
+ 	Vecinos = [1, 2, 4, 5]
+Nodo4: Inicializado algoritmo
+ 	Vecinos = [1, 2, 3, 5, 6]
+Nodo5: Inicializado algoritmo
+ 	Vecinos = [3, 4, 6]
+Nodo6: Inicializado algoritmo
+ 	Vecinos = [4, 5]
+recibo mensaje
+recibo mensaje
+recibo mensaje
+recibo mensaje
+recibo mensaje
+recibo mensaje

@@ -1,0 +1,30 @@
+Nodo1: Inicializo algoritmo
+ 	Vecinos = [2, 3, 4]
+Nodo2: Inicializo algoritmo
+ 	Vecinos = [1, 3, 4]
+Nodo3: Inicializo algoritmo
+ 	Vecinos = [1, 2, 4, 5]
+Nodo4: Inicializo algoritmo
+ 	Vecinos = [1, 2, 3, 5, 6]
+Nodo5: Inicializo algoritmo
+ 	Vecinos = [3, 4, 6]
+Nodo6: Inicializo algoritmo
+ 	Vecinos = [4, 5]
+recibo mensaje
+recibo mensaje
+recibo mensaje
+recibo mensaje
+recibo mensaje
+Nodo2: Termino algoritmo
+ 	padre = 1
+recibo mensaje
+Nodo6: Termino algoritmo
+ 	padre = 4
+Nodo5: Termino algoritmo
+ 	padre = 3
+Nodo4: Termino algoritmo
+ 	padre = 1
+Nodo3: Termino algoritmo
+ 	padre = 1
+Nodo1: Termino algoritmo
+ 	padre = 1
